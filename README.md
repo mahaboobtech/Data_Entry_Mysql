@@ -14,9 +14,9 @@ by default it would be root and password
 
 note if you got client side connection error make sure this command to rectify 
 
-''' 
+```
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'; 
-'''
+```
 
 next modify the user and password in the app.js file 
 and also modify the query which is as require for your table and values 
