@@ -28,16 +28,23 @@ now install nodejs from official website
 
 after installation of nodejs software 
 
-``` npm install -g yarn ```
+``` 
+npm install -g yarn
+```
 
 then after yarn installed next you need to install packages 
 
-``` yarn ```
+``` 
+yarn
+```
 
 thats is everything is ready 
 
 now 
-``` npm src/app.js ```
+
+``` 
+npm src/app.js
+```
 
 <img width="298" alt="image" src="https://github.com/mahaboobtech/Data_Entry_Mysql/assets/52873899/11a8bcfd-5c60-4bcc-9d79-a1345bf3d440">
 
